@@ -1,0 +1,6 @@
+ng serve opens editor instead of loading local URL
+    This is the terminal editor on the 'ng' alias. Uninstall it with:
+        sudo apt purge ng-common ng-latin
+    And then install Angular CLI (assuming you have npm installed) with
+        sudo npm install -g @angular/cli
+-------------------------------------------------------------------------
